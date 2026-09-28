@@ -46,9 +46,8 @@ código.
 ## Estrutura de pastas
 
 ```
-aesa-atividades/
+CRUD-Estoque/
 ├── README.md
-├── roteiro-video.md
 └── src/
     └── br/edu/aesa/
         ├── model/
@@ -61,7 +60,7 @@ aesa-atividades/
 
 ## Como compilar e executar
 
-Pelo terminal, na raiz do projeto (`aesa-atividades/`):
+Pelo terminal, na raiz do projeto (`CRUD-Estoque/`):
 
 ```bash
 # Compilar
