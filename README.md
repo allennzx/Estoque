@@ -3,7 +3,7 @@
 Projeto desenvolvido para o desafio prático de Estrutura de Dados, com um
 sistema de **Controle de Estoque de Produtos** implementado em Java.
 
-> 🔗 **Link da Apresentação em Vídeo:** [...]
+> 🔗 **Link da Apresentação em Vídeo:** [https://youtu.be/FXMdDdraI5A?is=1VJwAAeaVq0X2knA]
 
 ---
 
